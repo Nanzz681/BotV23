@@ -1,1 +1,1 @@
-worker: npm start && 62889919936688
+worker: npm start 
