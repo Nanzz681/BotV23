@@ -16,9 +16,9 @@ global.owner = ['6282140059454'] // ubah aja pake nomor lu
 //==========================BY Hw Mods=======================//
 global.keyopenai = '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'
 //====================BY Hw Mods=============================//
-global.botname = 'nnz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'NanzzBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '⭔' // ubah aja ini nama sticker
-global.author = 'Nanzz' // ubah aja ini nama sticker
+global.author = 'NanzzModz' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'haikal' //Gausah Juga
 global.sp = '⭔' // Gausah Juga
