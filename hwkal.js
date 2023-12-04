@@ -5,7 +5,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.gr = 'https://chat.whatsapp.com/Em4vPwiN7151mO3lDpkdrm'
+global.gr = 'https://chat.whatsapp.com/GNqO0IWeEfAKBdO7Lj1DaD'
 global.ig = '@gatau' // ubah aja
 global.email = 'awokawok@gmail.com' //serah
 global.region = 'indonesia' // serah
